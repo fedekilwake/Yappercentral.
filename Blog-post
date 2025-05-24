@@ -1,0 +1,5 @@
+/ (root folder of the repo)
+│
+├── index.html
+├── blog-post.html
+└── (future pages like about.html, contact.html, etc.)
